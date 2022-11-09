@@ -1,0 +1,32 @@
+#tituli{
+    /*
+    LINEA PARA QUE LAS CAJAS QUEDEN EN EL CENRTO
+    margin-left: 650px;*/
+        display: flex;
+        box-align:center;
+        border-radius: 25px;
+        padding: 10px;
+        width: 14cm;
+        background-color: #ffb6c8;
+        box-shadow: 5px 10px #FF0040;
+}
+
+
+#navigator{
+    
+    border-radius: 25px;
+    padding: 10px;
+    width: 14cm;
+    background-color: #ffb6c8;
+    box-shadow: 5px 10px #FF0040;
+}
+
+
+#weas{
+    
+    border-radius: 25px;
+    padding: 10px;
+    width: 14cm;
+    background-color: #ffb6c8;
+    box-shadow: 5px 10px #FF0040;
+}
