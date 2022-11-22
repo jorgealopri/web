@@ -1,3 +1,14 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-attachment: fixed;
+    background-image: linear-gradient(to top, rgb(29, 243, 197), #ffff);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
 #tituli{
     /*
     LINEA PARA QUE LAS CAJAS QUEDEN EN EL CENRTO
@@ -7,17 +18,18 @@
         border-radius: 25px;
         padding: 10px;
         width: 14cm;
-        background-color: #ffb6c8;
+        background-color: #ffd4df;
         box-shadow: 5px 10px #FF0040;
+        text-align: center;
+        text-align: center;
 }
-
 
 #navigator{
     
     border-radius: 25px;
     padding: 10px;
     width: 14cm;
-    background-color: #ffb6c8;
+    background-color: #ffd4df;
     box-shadow: 5px 10px #FF0040;
 }
 
@@ -27,6 +39,7 @@
     border-radius: 25px;
     padding: 10px;
     width: 14cm;
-    background-color: #ffb6c8;
+    background-color: #ffd4df;
     box-shadow: 5px 10px #FF0040;
+    text-align: center;
 }
